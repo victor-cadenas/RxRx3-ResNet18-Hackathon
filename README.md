@@ -18,7 +18,7 @@ The dataset contains HCS images for representation learning and biological pertu
 3. ResNet18 fine-tuning
 4. Binary classification
 5. Metrics
-6. Heatmap (Grad-CAM) for AI explainability
+6. Heatmap (Grad-CAM) for AI explainability. Highlights the regions the model focuses on to make its prediction.
 <img width="736" height="490" alt="pipeline" src="https://github.com/user-attachments/assets/9f4070cf-ec0d-48b1-b03e-901a897f38a4" />
 
 ## Technical details
